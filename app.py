@@ -8,7 +8,7 @@ import time
 
 # ── Configuración de página ──────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Demo Streamlit",
+    page_title="Demo para RAMÓN HC de Streamlit",
     page_icon="🚀",
     layout="wide",
     initial_sidebar_state="expanded",
