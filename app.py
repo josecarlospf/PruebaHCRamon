@@ -71,7 +71,7 @@ with st.sidebar:
     colorscale = color_map[tema]
     
     st.divider()
-    st.caption("Hecho con ❤️ usando Streamlit")
+    st.caption("Hecho usando Streamlit 💪")
 
 # ── Datos de ejemplo ─────────────────────────────────────────────────────────
 @st.cache_data
