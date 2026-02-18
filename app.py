@@ -99,7 +99,7 @@ df = generar_datos_ventas()
 # SECCIÓN: INICIO
 # ════════════════════════════════════════════════════════════════════════════
 if seccion == "🏠 Inicio":
-    st.markdown('<h1 class="main-title">🚀 Demo App — Streamlit</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-title">🚀 Demo para Ramón HC de Streamlit</h1>', unsafe_allow_html=True)
     st.markdown('<p class="subtitle">Una demostración interactiva de todo lo que puedes construir</p>', unsafe_allow_html=True)
     
     col1, col2, col3, col4 = st.columns(4)
